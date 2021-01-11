@@ -5,12 +5,9 @@
 
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#Descrição-do-Projeto">Descrição do Projeto</a> • 
+ <a href="#tecnologias">Tecnologias</a> •  
+ <a href="#License">License</a> • 
 </p>
 
 <h4 align="center"> 
@@ -51,6 +48,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
+
+## License
+
+<p>MIT.</p>
 
 Implementado com ❤️ por Bruner Eduardo Augusto Albrecht 👋🏽
 
