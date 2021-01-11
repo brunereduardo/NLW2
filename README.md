@@ -1,5 +1,7 @@
 # Proffy 
 
+![Proffy](https://github.com/brunereduardo/NextLevelWeek_2/blob/master/public/images/proffy.png)
+
 ## Descrição do Projeto
 <p align="center">Escrever uma breve descrição</p>
 
