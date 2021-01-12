@@ -10,7 +10,6 @@ Quero deixar meu agradecimento aos instrutores da Rocketseat por essa semana ime
 <p align="center">
 <a href="#Descrição-do-Projeto">Descrição do Projeto</a> •  
 <a href="#Pré-requisitos">Pré-requisitos</a> •	
-<a href="#🚀-Tecnologias">Tecnologias</a> • 
 <a href="#License">License</a> • 
 <a href="#Author">Author</a>
 </p>
