@@ -17,7 +17,7 @@ Quero deixar meu agradecimento aos instrutores da Rocketseat por essa semana ime
 </p>
 
 <h4 align="center"> 
-	🚧  Contruido durante o evento 🚧 Partindo para mais aprendizados web... 🚀 
+	🚧  Construído durante o evento 🚧 Partindo para mais aprendizados web... 🚀 
 </h4>
 
 ### Pré-requisitos
