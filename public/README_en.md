@@ -2,31 +2,29 @@
 
 ![Proffy](https://github.com/brunereduardo/NextLevelWeek_2/blob/master/public/images/proffy.png)
 
-#### [English version here!](https://github.com/brunereduardo/GameXp_DB_USP/blob/master/Documentos/English/README.md)
-
 ## Descrição do Projeto
-<p align="justify"> Durante a Next Level Week estudei várias tecnologias totalmente voltadas à aplicação web responsiva (mobile first) como o HTML 5, CSS 3, Javascript (+JSON), SQlite (bem interessante aprender outro DB diferente do que nós temos contato na graduação) e por fim o NodeJs com seus módulos como : Nodemon (utilitário que monitora quaisquer mudanças no seu código fonte e reinicia automaticamente seu servidor)e Nunjucks (template engine aka como deixar seu HTML com esteroides).
-Quero deixar meu agradecimento aos instrutores da Rocketseat por essa semana imensa em conteúdos, mas que através dos métodos de ensino dos mentores fez com que fosse fácil de aprender em 7 dias várias tecnologias.</p>
+<p align="justify">During Next Level Week I studied several technologies totally focused on responsive web application (mobile first) such as HTML 5, CSS 3, Javascript (+ JSON), SQlite (very interesting to learn another DB, different from what we have contact in college) and finally NodeJs with its modules such as: Nodemon (utility that monitors any changes in your source code and automatically restarts your server) and Nunjucks (template engine).
+I want to leave my thanks to the Rocketseat instructors for this immense week in content, but that through the mentoring teaching methods made it easy to learn various technologies in 7 days.</p>
 
 
 <p align="center">
-<a href="#Descrição-do-Projeto">Descrição do Projeto</a> •  
-<a href="#Pré-requisitos">Pré-requisitos</a> •	
+<a href="#Descrição-do-Projeto">Project description</a> •  
+<a href="#Pré-requisitos">Prerequisites</a> •	
 <a href="#License">License</a> • 
 <a href="#Author">Author</a>
 </p>
 
 <h4 align="center"> 
-	🚧  Contruido durante o evento 🚧 Partindo para mais aprendizados web... 🚀 
+	🚧  Built during the event 🚧 Starting for more web learning ... 🚀
 </h4>
 
-### Pré-requisitos
+### Prerequisites
 
-Para começar a se aventurar na aplicação você vai precisar instalar em sua máquina as seguintes ferramentas:
+To start venturing into the application you will need to install the following tools on your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto, um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) servirá para todos os propósitos
+In addition, an editor to work with the code as [VSCode](https://code.visualstudio.com/) will serve all purposes.
 
-### Rodando a Aplicação 🎲
+### Running the Application 🎲
 
 ```bash
 # Clone este repositório
@@ -43,9 +41,9 @@ $ npm run dev
 
 # O servidor inciará na porta:5500 - acesse <http://localhost:5500>
 ```
-### 🚀 Tecnologias
+### 🚀 Technology
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
@@ -57,5 +55,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p>MIT</p>
 
 ### Author
-Implementado com ❤️ por Bruner Eduardo Augusto Albrecht 👋🏽
+Implemented with ❤️ by Bruner Eduardo Augusto Albrecht 👋🏽
 
