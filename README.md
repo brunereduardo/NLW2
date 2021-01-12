@@ -26,7 +26,7 @@ Para começar a se aventurar na aplicação você vai precisar instalar em sua m
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto, um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) servirá para todos os propósitos
 
-### 🎲 Rodando a Aplicação
+### Rodando a Aplicação 🎲
 
 ```bash
 # Clone este repositório
