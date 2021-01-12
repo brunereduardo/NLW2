@@ -14,14 +14,14 @@
 </p>
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  Contruido durante o evento 🚧 Partindo para mais aprendizados web... 🚀 
 </h4>
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Para começar a se aventurar na aplicação você vai precisar instalar em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além disto, um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) servirá para todos os propósitos
 
 ### 🎲 Rodando o Back End (servidor)
 
