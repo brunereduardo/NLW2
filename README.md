@@ -41,7 +41,7 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
-# O servidor inciará na porta:5500 - acesse <http://localhost:5500>
+# O servidor iniciará na porta:5500 - acesse <http://localhost:5500>
 ```
 ### 🚀 Tecnologias
 
