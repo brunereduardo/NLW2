@@ -3,7 +3,7 @@
 ![Proffy](https://github.com/brunereduardo/NextLevelWeek_2/blob/master/public/images/proffy.png)
 
 ## Descrição do Projeto
-<p align="center">Next Level Week, uma imersão totalmente voltada à aplicação web responsiva(mobile first). Durante esses 7 dias consegui passar por várias tecnologias como o HTML 5(uma boa atualizada, visto que eu parei em 2011), CSS 3 ( de longe algo que nunca achei tão fácil, já que o design não era muito o meu forte), Javascript( +JSON), SQlite( bem interessante aprender outro DB diferente do da Oracle que nós temos contato na graduação) e por fim o NodeJs com seus módulos como : Nodemon( utilitário que monitora quaisquer mudanças no seu código fonte e reinicia automaticamente seu servidor), Nunjucks (template engine aka como deixar seu HTML com esteroides).
+<p align="center"> Durante a Next Level Week estudei várias tecnologias totalmente voltadas à aplicação web responsiva (mobile first) como o HTML 5, CSS 3, Javascript(+JSON), SQlite(bem interessante aprender outro DB diferente do que nós temos contato na graduação) e por fim o NodeJs com seus módulos como : Nodemon (utilitário que monitora quaisquer mudanças no seu código fonte e reinicia automaticamente seu servidor)e Nunjucks (template engine aka como deixar seu HTML com esteroides).
 Quero deixar meu agradecimento aos instrutores da Rocketseat por essa semana imensa em conteúdos, mas que através dos métodos de ensino dos mentores fez com que fosse fácil de aprender em 7 dias várias tecnologias.</p>
 
 
