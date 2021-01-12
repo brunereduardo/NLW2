@@ -7,9 +7,10 @@
 
 
 <p align="center">
- <a href="#Descrição-do-Projeto">Descrição do Projeto</a> • 
- <a href="#tecnologias">Tecnologias</a> •  
- <a href="#License">License</a> • 
+<a href="#Descrição-do-Projeto">Descrição do Projeto</a> • 
+<a href="#tecnologias">Tecnologias</a> •  
+<a href="#License">License</a> • 
+<a href="#Author">Author</a>
 </p>
 
 <h4 align="center"> 
@@ -42,7 +43,7 @@ $ npm run dev:server
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
-## 🚀 Tecnologias
+### 🚀 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -51,9 +52,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## License
+### License
 
 <p>MIT.</p>
 
+### Author
 Implementado com ❤️ por Bruner Eduardo Augusto Albrecht 👋🏽
 
