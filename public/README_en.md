@@ -27,19 +27,19 @@ In addition, an editor to work with the code as [VSCode](https://code.visualstud
 ### Running the Application 🎲
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/brunereduardo/NextLevelWeek_2
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder on terminal/cmd
 $ cd NextLevelWeek_2
 
-# Instale as dependências
+# Install the dependencies
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ npm run dev
 
-# O servidor inciará na porta:5500 - acesse <http://localhost:5500>
+# The server will start at port: 5500 - go to <http: // localhost: 5500>
 ```
 ### 🚀 Technology
 
