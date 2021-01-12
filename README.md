@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="#Descrição-do-Projeto">Descrição do Projeto</a> • 
-<a href="#tecnologias">Tecnologias</a> •  
+<a href="#Tecnologias">Tecnologias</a> •  
 <a href="#License">License</a> • 
 <a href="#Author">Author</a>
 </p>
