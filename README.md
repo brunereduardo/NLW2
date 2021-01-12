@@ -23,25 +23,22 @@ Para começar a se aventurar na aplicação você vai precisar instalar em sua m
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto, um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) servirá para todos os propósitos
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando a Aplicação
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone https://github.com/brunereduardo/NextLevelWeek_2
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta server
-$ cd server
+$ cd NextLevelWeek_2
 
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+$ npm run dev
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# O servidor inciará na porta:5500 - acesse <http://localhost:5500>
 ```
 ### 🚀 Tecnologias
 
@@ -54,7 +51,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### License
 
-<p>MIT.</p>
+<p>MIT</p>
 
 ### Author
 Implementado com ❤️ por Bruner Eduardo Augusto Albrecht 👋🏽
