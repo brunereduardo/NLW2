@@ -7,11 +7,10 @@
 
 
 <p align="center">
-<a href="#Descrição-do-Projeto">Descrição do Projeto</a> • 
-<a href="#🚀-Tecnologias">Tecnologias</a> •  
-<a href="#License">License</a> •
+<a href="#Descrição-do-Projeto">Descrição do Projeto</a> •  
 <a href="#Pré-requisitos">Pré-requisitos</a> •	
-<a href="#🎲-Rodando-a-Aplicação">Rodando a Aplicação</a> •
+<a href="#Rodando-a-Aplicação">Rodando a Aplicação</a> •
+<a href="#Tecnologias">Tecnologias</a> • 
 <a href="#License">License</a> • 
 <a href="#Author">Author</a>
 </p>
