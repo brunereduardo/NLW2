@@ -43,6 +43,8 @@ $ npm run dev
 
 # O servidor iniciará na porta:5500 - acesse <http://localhost:5500>
 ```
+![Gif](https://github.com/brunereduardo/NextLevelWeek_2/blob/master/public/ezgif.com-gif-maker.gif)
+
 ### 🚀 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
