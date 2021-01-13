@@ -56,8 +56,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### License
 
-<p>Este projeto está sob a licensa MIT, para mais informações procurar pelo arquivo <a href = "https://github.com/brunereduardo/NextLevelWeek_2/blob/master/LICENSE">LICENSE</a></p>
+<p>Este projeto está sob a licença MIT, para mais informações procurar pelo arquivo <a href = "https://github.com/brunereduardo/NextLevelWeek_2/blob/master/LICENSE">LICENSE</a></p>
 
 ### Author
-Implementado com ❤️ por Bruner Eduardo Augusto Albrecht 👋🏽 e idealizado pela [RocketSeat](https://github.com/rocketseat-education).
+Implementado e estudado com ❤️ por Bruner Eduardo Augusto Albrecht 👋🏽, idealizado e construido pela [RocketSeat](https://github.com/rocketseat-education).
 
