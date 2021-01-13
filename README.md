@@ -2,6 +2,8 @@
 
 ![Proffy](https://github.com/brunereduardo/NextLevelWeek_2/blob/master/public/images/proffy.png)
 
+#### [Portuguese version here!](google.com)
+
 ## Project description
 <p align="justify">During Next Level Week I studied several technologies totally focused on responsive web application (mobile first) such as HTML 5, CSS 3, Javascript (+ JSON), SQlite (very interesting to learn another DB, different from what we have contact in college) and finally NodeJs with its modules such as: Nodemon (utility that monitors any changes in your source code and automatically restarts your server) and Nunjucks (template engine).
 I want to leave my thanks to the Rocketseat instructors for this immense week in content, but that through the mentoring teaching methods made it easy to learn various technologies in 7 days.</p>
