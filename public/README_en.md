@@ -41,6 +41,8 @@ $ npm run dev
 
 # The server will start at port: 5500 - go to <http: // localhost: 5500>
 ```
+![Gif](https://github.com/brunereduardo/NextLevelWeek_2/blob/master/public/ezgif.com-gif-maker.gif)
+
 ### 🚀 Technology
 
 The following tools were used in the construction of the project:
@@ -55,5 +57,5 @@ The following tools were used in the construction of the project:
 <p>MIT</p>
 
 ### Author
-Implemented with ❤️ by Bruner Eduardo Augusto Albrecht 👋🏽
+Implemented and studied with ❤️ by Bruner Eduardo Augusto Albrecht 👋🏽 and designed and built by [RocketSeat](https://github.com/rocketseat-education).
 
